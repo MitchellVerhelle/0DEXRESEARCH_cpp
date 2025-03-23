@@ -1,0 +1,3 @@
+/Users/mitchellverhelle/0DEXRESEARCH_cpp/build/CMakeFiles/main.dir
+/Users/mitchellverhelle/0DEXRESEARCH_cpp/build/CMakeFiles/edit_cache.dir
+/Users/mitchellverhelle/0DEXRESEARCH_cpp/build/CMakeFiles/rebuild_cache.dir
